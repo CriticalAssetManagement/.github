@@ -1,4 +1,4 @@
-![CAMS - Building Climate Resilience](https://github.com/CriticalAssetManagement/CAMS-web-assets/blob/main/Images/CAMS-Repo-Intro-Large.png)
+![CAMS - Building Climate Resilience](https://github.com/CriticalAssetManagement/CAMS-web-assets/blob/main/Images/CAMS-Repo-Intro-Large-v2.png)
 # Critical Asset Management and Disaster Resilience for Islands, Cities, and Communities
 Climate change is increasing the risk of extreme weather events all over the world. Often it is not those responsible for greenhouse emissions who suffer the worst consequences. Island nations, cities, and communities run the risk of devastation from natural disasters, and the governing bodies behind these need to be resilient to disasters to rebuild quickly and save lives.
 
