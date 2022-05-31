@@ -21,7 +21,7 @@ If you’re looking for an open-source project to contribute to, please consider
 - Project growth and management
 
 ## The problem to solve
-While many cities, communities, and islands seek to improve their disaster resilience by identifying their critical assets, their efforts often suffer from disparate datasets and the inability to map relationships and dependencies between assets programmatically. CAMS is a simple, free software tool that:
+While many cities, communities, and islands seek to improve their disaster resilience by identifying their critical assets, their efforts often suffer from disparate datasets and the inability to map relationships and dependencies between assets programmatically. CAMS is a simple software tool that:
 
 - Enables cities and islands to fully inventory their critical assets and assemble key data about them;
 - Identifies the risks to which each asset is exposed;
