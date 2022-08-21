@@ -7,7 +7,7 @@ The open-source Critical Asset Management System (CAMS) project is a collaborati
 Together, we're building CAMS, **a data-centric tool that displays failure chains of critical assets** to enable effective planning and rapid responses to disasters.
 
 ## Seeking contributors
-Contribution guide is [here](https://github.com/CriticalAssetManagement/contributor-guide/blob/main/README.md) - get involved, we are happy to help.
+Contribution guide is [here](https://github.com/CriticalAssetManagement/contributor-guide/blob/main/README.md) - get involved, we are happy to help over in our [community slack](https://join.slack.com/t/camsforclimat-yfe2592/shared_invite/zt-1eni4nvuq-vHlLdrQgVlyY_W7j_SkoEQ).
 
 ## The problem to solve
 While many cities, communities, and islands seek to improve their disaster resilience by identifying their critical assets, their efforts often suffer from disparate datasets and the inability to map relationships and dependencies between assets programmatically. CAMS is a simple software tool that:
