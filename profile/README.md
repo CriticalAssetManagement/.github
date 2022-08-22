@@ -10,4 +10,4 @@ CAMS is **a data-centric tool that displays failure chains of critical assets** 
 ## Seeking contributors
 [Contribution guide is here](https://github.com/CriticalAssetManagement/contributor-guide/blob/main/README.md) - get involved, we are happy to help over in our [community slack](https://join.slack.com/t/camsforclimat-yfe2592/shared_invite/zt-1eni4nvuq-vHlLdrQgVlyY_W7j_SkoEQ).
 
-[Set up your own instance of CAMS locally](https://github.com/CriticalAssetManagement/CAMS-Dashboard#getting-started) and familiarize yourself with the application and take a [look at the current roadmap](https://github.com/orgs/CriticalAssetManagement/projects/2) to see where you can help.
+[Set up your own instance of CAMS locally](https://github.com/CriticalAssetManagement/CAMS-Dashboard#getting-started) to familiarize yourself with the application and take a [look at the current roadmap](https://github.com/orgs/CriticalAssetManagement/projects/2) to see where you can help.
