@@ -25,3 +25,12 @@ A community-oriented map-based, disaster risk information and early warning serv
 An open source map-based information service where users may superimpose assets over basic map data, latest versions of local/national hazard maps, real-time weather information, real-time hazard information, and so on. In addition to receiving early warnings pertaining to their asset, send and receive pre-set messages, alerts, etc. based on pre-set triggers to pre-set recipients, shortening response time, and thus contributing to faster recovery. We could contribute to existing local/national EWS by functioning as aggregator of EWS for decision-makers who must assess disaster risk/threats to extremely large numbers (thousands to tens of thousands) of assets across dispersed and discrete geographical locations.
 
 A vast number of people globally are dependent of continuation of services for their livelihoods and will need this type of tooling more and more as the climate becomes less predictable. We think an open and independent service like CAMS could make a real difference to people's lives.
+
+## What Next?
+
+If you're interested in contributing or finding out more about CAMS, check out:
+
+- [Contributors guide](https://github.com/CriticalAssetManagement/contributor-guide/blob/main/README.md)
+- [Set up CAMS locally - Install instructions](https://github.com/CriticalAssetManagement/CAMS-Dashboard#getting-started)
+- [Project board - See the issues we need help with](https://github.com/orgs/CriticalAssetManagement/projects/2)
+- [Report bugs, suggest features, and see current issues](https://github.com/CriticalAssetManagement/CAMS-Dashboard/issues)
